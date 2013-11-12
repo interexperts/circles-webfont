@@ -22,4 +22,4 @@ Credits
 
 License
 -------
-GPL v3 License. See the *LICENSE.txt* file
+GPL v3 License. See the [LICENSE.txt](https://github.com/interexperts/circles-webfont/blob/master/LICENSE.txt) file
