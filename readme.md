@@ -1,5 +1,5 @@
 Circles webfont
----------------
+===============
 The circles webfont is used to create the unicode geometric shape cirles on computers that don't support unicode. The characters are:
 
 0. ●	9679	●	25CF	 	BLACK CIRCLE (present in WGL4)
@@ -13,11 +13,11 @@ The circles webfont is used to create the unicode geometric shape cirles on comp
 The characters have been extracted from the [FreeSans](http://www.gnu.org/software/freefont/index.html) font.
 
 Credits
-=======
+-------
 
 - [FreeSans](http://www.gnu.org/software/freefont/index.html)
 - [Font squirrel webfont generator](http://www.fontsquirrel.com/tools/webfont-generator)
 
 License
-=======
+-------
 GPL v3 License see the *LICENSE.txt* file
