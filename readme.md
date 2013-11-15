@@ -16,7 +16,7 @@ The circles webfont is used to create the unicode geometric shape cirles on comp
 | 9         |  ◍    | 9677 | 25CD | CIRCLE WITH VERTICAL FILL                     |
 | :         |  ◎    | 9678 | 25CE | BULLSEYE                                      |
 
-These glyphs have been extracted from the [FreeSans](http://www.gnu.org/software/freefont/index.html) font.
+These glyphs have been extracted from the [FreeSans](http://www.gnu.org/software/freefont/index.html) font. The webfont was created for use in our project, [Verlofbeheer](http://www.verlofbeheer.nl), in which it is used to indicate availability of employees.
 
 Credits
 -------
